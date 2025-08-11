@@ -12,6 +12,14 @@ Want a cinematic 3D parallax hero without WebGL or Three.js? In this step-by-ste
 
 ---
 
+## 🌐 Live Demo
+
+Experience the Interactive Web:
+🔗 https://react-3d-parallax.vercel.app/
+
+🌍 Deployment
+This app is deployed via Vercel, enabling fast global hosting with zero-config.
+
 ## 🛠️What You’ll Learn
 
 This project uses the following techniques:
