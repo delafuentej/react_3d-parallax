@@ -43,9 +43,9 @@ Follow these steps to set up the project locally:
 1️⃣ Clone the repository
 
 ```
-git clone https://github.com/delafuentej/r3f_wizard-game.git
+git clone https://github.com/delafuentej/react_3d-parallax.git
 
-cd r3f_wizard-game
+cd react_3d-parallax
 ```
 
 2️⃣ Install dependencies
