@@ -30,7 +30,7 @@ This project uses the following techniques:
 
 - Basic knowledge of HTML/CSS/JS & React.
 
-- GSAP (CDN: https://cdnjs.cloudflare.com/ajax/libs/gsap/3.x/gsap.min.js).
+- GSAP: Animations.
 
 - Layered images (background, far mountains, mid mountains, fog, text/foreground).
 
